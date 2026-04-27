@@ -5,4 +5,4 @@ gem 'puma'
 gem 'rackup'
 gem 'httparty'
 # Reemplaza gkenny1968 por tu usuario si es otro
-gem 'base_deudores_bcra', github: 'gkenny1968/base_deudores_bcra', branch: 'main'
+gem 'base_deudores_bcra', git: 'https://github.com/gkenny1968/base_deudores_bcra.git'
